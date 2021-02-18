@@ -1,2 +1,6 @@
 number file text....
+<<<<<<< HEAD
 Another test.
+=======
+Testing....
+>>>>>>> 2bd89a4 (Anothe Text)
