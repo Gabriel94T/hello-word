@@ -8,5 +8,6 @@ public class Main {
 	   System.out.println(horse.getNumbers());
 	   System.out.println(horse.getStatement());
 	   System.out.println("Hello There");
+	   System.out.println("Hi Again");
    }
 }
