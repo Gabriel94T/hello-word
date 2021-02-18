@@ -1,1 +1,6 @@
 
+<<<<<<< HEAD
+=======
+Another Number has been added.
+Conflict texta
+>>>>>>> d79e50e (Changed)
