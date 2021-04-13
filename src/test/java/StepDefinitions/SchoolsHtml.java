@@ -1,27 +1,17 @@
 package StepDefinitions;
 
-import java.io.IOException;
-import java.util.concurrent.TimeUnit;
 
-import org.openqa.selenium.OutputType;
-import org.openqa.selenium.TakesScreenshot;
+import java.util.concurrent.TimeUnit;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import Pages.PageHomeTitle;
-import Pages.ReportHtml;
-import io.cucumber.java.After;
+import io.cucumber.java.en.*;
 import io.cucumber.java.Before;
-import io.cucumber.java.Scenario;
-import io.cucumber.java.en.Given;
-import io.cucumber.java.en.Then;
-import io.cucumber.java.en.When;
-
 public class SchoolsHtml {
 
 	public static WebDriver driver;
 	PageHomeTitle page;
-	ReportHtml report;
-
+	
 	@Before
 	public void onSetup() {
 
@@ -69,17 +59,7 @@ public class SchoolsHtml {
 
 	}
 	
-	  @After public void tearDown() throws IOException {
 	  
-	  
-	  report = new ReportHtml(driver); report.htmlReport("Schools",
-	  "Validate Title");
-	  
-	  
-	  
-	  }
-	 
-
 	
 
 	

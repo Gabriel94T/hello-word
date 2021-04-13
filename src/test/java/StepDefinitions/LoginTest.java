@@ -4,33 +4,23 @@ import java.io.IOException;
 import java.util.List;
 import java.util.Map;
 import java.util.concurrent.TimeUnit;
-
 import org.apache.poi.openxml4j.exceptions.InvalidFormatException;
 import org.openqa.selenium.By;
-import org.openqa.selenium.JavascriptExecutor;
-import org.openqa.selenium.OutputType;
-import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
-import com.aventstack.extentreports.ExtentTest;
 import Pages.PageHomeTitle;
 import Pages.PageLogin;
-import Pages.ReportHtml;
 import Utility.ExcelReader;
-import io.cucumber.java.After;
+import io.cucumber.java.en.*;
 import io.cucumber.java.Before;
-import io.cucumber.java.Scenario;
-import io.cucumber.java.en.And;
-import io.cucumber.java.en.Given;
-import io.cucumber.java.en.Then;
-import io.cucumber.java.en.When;
+
+
 
 public class LoginTest {
 
 	public static WebDriver driver;
 	PageLogin login;
 	PageHomeTitle page;
-	ReportHtml report;
 
 	@Before
 	public void onSetup() {
@@ -59,38 +49,47 @@ public class LoginTest {
 	}
 
 	@When("user enters {string} and {int}")
-	public void user_enters(String sheetName, Integer RowNumber)
+	public void user_enters(String Login, Integer RowNumber)
 			throws InterruptedException, InvalidFormatException, IOException {
 
 		ExcelReader reader = new ExcelReader();
 		List<Map<String, String>> testData = reader
-				.getData("C:\\Users\\gbujnows\\eclipse-workspace\\Cucumber.Java3\\automation.xlsx", sheetName);
+				.getData("C:\\Users\\gbujnows\\eclipse-workspace\\CucumberTestAutomation\\automation.xlsx", Login);
 
 		String dataUser = testData.get(RowNumber).get("username");
 		String dataPassword = testData.get(RowNumber).get("password");
 
 		login = new PageLogin(driver);
 		login.navigateToForm();
+
 		login.enterUsername(dataUser);
 		login.enterPassword(dataPassword);
 
-		Thread.sleep(50);
+		System.out.println("User Name :" + dataUser);
+		System.out.println("Password :" + dataPassword);
+
+		Thread.sleep(200);
 
 	}
 
 	@And("user click on login button and fill out the form")
-	public void user_click_on_login_button() throws InterruptedException {
+	public void user_click_on_login_button()
+			throws InterruptedException, IOException, InvalidFormatException {
+
 
 		login.clickLogin();
+		
+		  driver.findElement(By.id("country")).sendKeys("Ireland");
+		  driver.findElement(By.id("address")).sendKeys("12 Rialto Dublin 8");
+		  driver.findElement(By.id("email")).sendKeys("greg@gmail.com");
+		  driver.findElement(By.id("phone")).sendKeys("0892467854");
+		 
+	
 
-		driver.findElement(By.id("country")).sendKeys("Ireland");
-		driver.findElement(By.id("address")).sendKeys("12 Rialto Street Dublin");
-		driver.findElement(By.id("email")).sendKeys("greg@gmail.com");
-		driver.findElement(By.id("phone")).sendKeys("0987556428");
 
 		login.clickSave();
 		login.clickLogout();
-		Thread.sleep(50);
+		Thread.sleep(200);
 
 	}
 
@@ -98,19 +97,5 @@ public class LoginTest {
 	public void user_is_navigate_to_home_page() {
 		driver.close();
 	}
-	
-	
-	  @After public void tearDown() throws IOException {
-	  
-	  
-	  report = new ReportHtml(driver);
-	  report.htmlReport("Login Test",
-	  "functionality test"); 
-	
-	  
-	  
-	  }
-	  
-	 
 
 }
