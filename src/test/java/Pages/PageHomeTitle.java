@@ -6,7 +6,6 @@ import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
-
 public class PageHomeTitle {
 
 	WebDriver driver;
@@ -28,23 +27,17 @@ public class PageHomeTitle {
 
 	public void validateTitle() {
 
-		
 		String title = driver.getTitle();
 		Assert.assertEquals(title, "HTML Tutorial");
-
-	
 
 	}
 
 	public void navigatingToTextField() {
 
 		WebElement textField = driver.findElement(head_txt);
-        ((JavascriptExecutor) driver).executeScript("arguments[0].scrollIntoView(true);", textField);
-
-		
+		((JavascriptExecutor) driver).executeScript("arguments[0].scrollIntoView(true);", textField);
 
 	}
-
 
 	public void validateHeader() {
 
@@ -52,10 +45,6 @@ public class PageHomeTitle {
 		String head = driver.findElement(head_txt).getText().trim();
 		Assert.assertEquals(head, "History");
 
-		
-
 	}
-	
-	
 
 }

@@ -17,13 +17,8 @@ import io.cucumber.junit.CucumberOptions;
 		//tags = "@GithubTest",
 		//tags = "@ExTestWithTable",
 		
-		plugin = { "pretty", "html:target/HTMLReport/HTMLREPORT.html",
-		"junit:target/JunitReport/report.xml",
-		"json:target/JsonReport/report.json"}
-		
-		
-		)
-
+		plugin = { "pretty"}  
+)
 		
 public class TestRunner {
 

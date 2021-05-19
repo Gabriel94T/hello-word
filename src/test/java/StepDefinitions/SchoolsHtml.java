@@ -1,69 +1,95 @@
 package StepDefinitions;
 
+import java.io.IOException;
 
-import java.util.concurrent.TimeUnit;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
+import org.testng.annotations.Test;
+
+import com.aventstack.extentreports.ExtentTest;
+import com.aventstack.extentreports.GherkinKeyword;
+import com.aventstack.extentreports.MediaEntityBuilder;
+import com.aventstack.extentreports.gherkin.model.Feature;
+import com.aventstack.extentreports.gherkin.model.Scenario;
+
+import Listeners.ExtentReportListener;
 import Pages.PageHomeTitle;
+import Utility.Constants;
+import Utility.GenericUtility;
 import io.cucumber.java.en.*;
-import io.cucumber.java.Before;
-public class SchoolsHtml {
+import io.github.bonigarcia.wdm.WebDriverManager;
 
-	public static WebDriver driver;
+public class SchoolsHtml extends ExtentReportListener {
+
+	WebDriver driver;
 	PageHomeTitle page;
-	
-	@Before
-	public void onSetup() {
+	GenericUtility utils;
 
-		System.setProperty("webdriver.gecko.driver",
-				"C:\\Users\\gbujnows\\git\\CucumberJavaTest\\Cucumber.Java\\src\\test\\resources\\Drivers\\geckodriver.exe");
+	@Test
+	@Given("check the Firefox browser is open")
+	public void check_the_firefox_browser_is_open() throws IOException {
 
-		
-		
+		WebDriverManager.chromedriver().setup();
+		driver = new ChromeDriver();
+		utils = new GenericUtility(driver);
+
+		ExtentTest logInfo = null;
+		try {
+			test = extent.createTest(Feature.class, "3schools Feature");
+			test = test.createNode(Scenario.class, "Scenario 3schools");
+			logInfo = test.createNode(new GherkinKeyword("When"), "navigate to Wikipedia home page");
+			logInfo.pass("Navigate to Wikipedia ...");
+
+		} catch (AssertionError | Exception e) {
+			testStepHandle("FAIL", driver, logInfo, e);
+
 		}
 
-	@Given("check the Firefox browser is open")
-	public void check_the_firefox_browser_is_open() {
-
-		driver = new FirefoxDriver();
-		driver.manage().deleteAllCookies();
-		driver.manage().timeouts().pageLoadTimeout(20, TimeUnit.SECONDS);
-		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
-		driver.manage().window().maximize();
-
-	
-
 	}
 
+	@Test
 	@When("navigate to 3schools home page")
-	public void navigate_to_3schools_home_page() {
+	public void navigate_to_3schools_home_page() throws IOException {
 
-		driver.get("https://www.w3schools.com/html/default.asp");
+		ExtentTest logInfo = null;
+		try {
+
+			logInfo = test.createNode(new GherkinKeyword("When"), "navigate to Wikipedia home page");
+			logInfo.pass("Navigate to Wikipedia ...");
+
+		} catch (AssertionError | Exception e) {
+			testStepHandle("FAIL", driver, logInfo, e);
+			// logInfo.addScreenCaptureFromPath(captureScreenShot(driver));
+		}
+
+		utils.goToUrl(Constants.URL_3SCHOOLS); // navigating to Url
 
 	}
 
+	@Test
 	@Then("validate title text")
 	public void validate_title_text() {
 
-		
+		ExtentTest logInfo = null;
+		try {
+
+			logInfo = test.createNode(new GherkinKeyword("When"), "navigate to Wikipedia home page");
+			logInfo.pass("Navigate to Wikipedia ...");
+
+		} catch (AssertionError | Exception e) {
+			testStepHandle("FAIL", driver, logInfo, e);
+
+		}
+
 		page = new PageHomeTitle(driver);
 		System.out.println("Getting the title...");
 		page.getTitle();
 		System.out.println("Validating title......");
 		page.validateTitle();
 
-		
 		driver.close();
 
-		
-
 	}
-	
-	  
-	
-
-	
-	
-	
 
 }
