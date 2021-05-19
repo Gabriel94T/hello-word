@@ -64,7 +64,7 @@ public class LoginTest {
 		login.enterPassword(dataPassword);
 
 		System.out.println("User Name :" + dataUser);
-		System.out.println("Password :" + dataPassword);
+		//System.out.println("Password :" + dataPassword);
 
 	}
 
