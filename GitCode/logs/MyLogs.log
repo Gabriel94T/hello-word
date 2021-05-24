@@ -1,0 +1,662 @@
+[INFO ] 2021-05-20 12:54:41.803 [TestNG-tests-1] Log - Execution started..
+[INFO ] 2021-05-20 12:54:41.821 [TestNG-tests-1] Log - Extent Report location initialized . . .
+[INFO ] 2021-05-20 12:54:41.934 [TestNG-tests-1] Log - System Info. set in Extent Report
+[INFO ] 2021-05-20 12:54:44.908 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-20 12:54:46.347 [TestNG-tests-1] Log - validateText
+[INFO ] 2021-05-20 12:54:46.393 [TestNG-tests-1] Log - Actual Text {Paid Courses}. Expected Text {Paid Courses}
+[INFO ] 2021-05-20 12:54:46.394 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-20 12:54:46.396 [TestNG-tests-1] Log - Getting the title...
+[INFO ] 2021-05-20 12:54:46.404 [TestNG-tests-1] Log - Expected Title HTML Tutorial
+[INFO ] 2021-05-20 12:54:46.410 [TestNG-tests-1] Log - Actual Title HTML Tutorial
+[INFO ] 2021-05-20 12:54:46.584 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-20 12:54:46.627 [TestNG-tests-1] Log - Execution completed..
+[INFO ] 2021-05-20 12:54:46.992 [TestNG-tests-1] Log - generate report
+[INFO ] 2021-05-20 14:54:28.954 [TestNG-tests-1] Log - Execution started..
+[INFO ] 2021-05-20 14:54:28.972 [TestNG-tests-1] Log - Extent Report location initialized . . .
+[INFO ] 2021-05-20 14:54:29.118 [TestNG-tests-1] Log - System Info. set in Extent Report
+[INFO ] 2021-05-20 14:54:31.892 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-20 14:54:33.129 [TestNG-tests-1] Log - validateText
+[INFO ] 2021-05-20 14:54:33.172 [TestNG-tests-1] Log - Actual Text {Paid Courses}. Expected Text {Paid Courses}
+[INFO ] 2021-05-20 14:54:33.173 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-20 14:54:33.174 [TestNG-tests-1] Log - Getting the title...
+[INFO ] 2021-05-20 14:54:33.180 [TestNG-tests-1] Log - Expected Title HTML Tutorial
+[INFO ] 2021-05-20 14:54:33.186 [TestNG-tests-1] Log - Actual Title HTML Tutorial
+[INFO ] 2021-05-20 14:54:33.529 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-20 14:54:33.580 [TestNG-tests-1] Log - Execution completed..
+[INFO ] 2021-05-20 14:54:33.991 [TestNG-tests-1] Log - generate report
+[INFO ] 2021-05-20 15:34:11.080 [TestNG-tests-1] Log - Execution started..
+[INFO ] 2021-05-20 15:34:11.097 [TestNG-tests-1] Log - Extent Report location initialized . . .
+[INFO ] 2021-05-20 15:34:11.246 [TestNG-tests-1] Log - System Info. set in Extent Report
+[INFO ] 2021-05-20 15:34:14.008 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-20 15:34:15.713 [TestNG-tests-1] Log - validateText
+[INFO ] 2021-05-20 15:34:15.778 [TestNG-tests-1] Log - Actual Text {Paid Courses}. Expected Text {Paid Courses}
+[INFO ] 2021-05-20 15:34:15.780 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-20 15:34:15.782 [TestNG-tests-1] Log - Getting the title...
+[INFO ] 2021-05-20 15:34:15.793 [TestNG-tests-1] Log - Expected Title HTML Tutorial
+[INFO ] 2021-05-20 15:34:15.803 [TestNG-tests-1] Log - Actual Title HTML Tutorial
+[INFO ] 2021-05-20 15:34:16.091 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-20 15:34:16.132 [TestNG-tests-1] Log - Execution completed..
+[INFO ] 2021-05-20 15:34:16.490 [TestNG-tests-1] Log - generate report
+[INFO ] 2021-05-20 16:19:28.587 [TestNG-tests-1] Log - Execution started..
+[INFO ] 2021-05-20 16:19:28.603 [TestNG-tests-1] Log - Extent Report location initialized . . .
+[INFO ] 2021-05-20 16:19:28.733 [TestNG-tests-1] Log - System Info. set in Extent Report
+[INFO ] 2021-05-20 16:19:31.613 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-20 16:19:33.191 [TestNG-tests-1] Log - validateText
+[INFO ] 2021-05-20 16:19:33.233 [TestNG-tests-1] Log - Actual Text {Paid Courses}. Expected Text {Paid Courses}
+[INFO ] 2021-05-20 16:19:33.235 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-20 16:19:33.237 [TestNG-tests-1] Log - Getting the title...
+[INFO ] 2021-05-20 16:19:33.242 [TestNG-tests-1] Log - Expected Title HTML Tutorial
+[INFO ] 2021-05-20 16:19:33.247 [TestNG-tests-1] Log - Actual Title HTML Tutorial
+[INFO ] 2021-05-20 16:19:33.373 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-20 16:19:33.485 [TestNG-tests-1] Log - Execution completed..
+[INFO ] 2021-05-20 16:19:33.758 [TestNG-tests-1] Log - generate report
+[INFO ] 2021-05-20 16:23:06.956 [main] Log - Extent Report location initialized . . .
+[INFO ] 2021-05-20 16:23:07.059 [main] Log - System Info. set in Extent Report
+[INFO ] 2021-05-20 16:23:11.843 [main] Log - validateText
+[INFO ] 2021-05-20 16:23:11.893 [main] Log - Actual Text {Paid Courses}. Expected Text {Paid Courses}
+[INFO ] 2021-05-20 16:23:11.894 [main] Log - Getting the title...
+[INFO ] 2021-05-20 16:23:11.902 [main] Log - Expected Title HTML Tutorial
+[INFO ] 2021-05-20 16:23:11.915 [main] Log - Actual Title HTML Tutorial
+[INFO ] 2021-05-21 09:21:54.484 [TestNG-tests-1] Log - Execution started..
+[INFO ] 2021-05-21 09:21:54.513 [TestNG-tests-1] Log - Extent Report location initialized . . .
+[INFO ] 2021-05-21 09:21:54.741 [TestNG-tests-1] Log - System Info. set in Extent Report
+[INFO ] 2021-05-21 09:22:04.405 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 09:22:25.280 [TestNG-tests-1] Log - validateText
+[INFO ] 2021-05-21 09:22:25.336 [TestNG-tests-1] Log - Actual Text {Paid Courses}. Expected Text {Paid Courses}
+[INFO ] 2021-05-21 09:22:25.339 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 09:22:25.342 [TestNG-tests-1] Log - Getting the title...
+[INFO ] 2021-05-21 09:22:25.356 [TestNG-tests-1] Log - Expected Title HTML Tutorial
+[INFO ] 2021-05-21 09:22:25.369 [TestNG-tests-1] Log - Actual Title HTML Tutorial
+[INFO ] 2021-05-21 09:22:25.600 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 09:22:25.670 [TestNG-tests-1] Log - Execution completed..
+[INFO ] 2021-05-21 09:22:26.152 [TestNG-tests-1] Log - generate report
+[INFO ] 2021-05-21 09:48:18.672 [TestNG-tests-1] Log - Execution started..
+[INFO ] 2021-05-21 09:48:18.695 [TestNG-tests-1] Log - Extent Report location initialized . . .
+[INFO ] 2021-05-21 09:48:18.873 [TestNG-tests-1] Log - System Info. set in Extent Report
+[INFO ] 2021-05-21 09:48:22.641 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 09:48:41.468 [TestNG-tests-1] Log - validateText
+[INFO ] 2021-05-21 09:48:41.586 [TestNG-tests-1] Log - Actual Text {Paid Courses}. Expected Text {Paid Courses}
+[INFO ] 2021-05-21 09:48:41.591 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 09:48:41.598 [TestNG-tests-1] Log - Getting the title...
+[INFO ] 2021-05-21 09:48:41.626 [TestNG-tests-1] Log - Expected Title HTML Tutorial
+[INFO ] 2021-05-21 09:48:41.648 [TestNG-tests-1] Log - Actual Title HTML Tutorial
+[INFO ] 2021-05-21 09:48:41.969 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 09:48:42.029 [TestNG-tests-1] Log - Execution completed..
+[INFO ] 2021-05-21 09:48:42.471 [TestNG-tests-1] Log - generate report
+[INFO ] 2021-05-21 09:54:06.731 [TestNG-tests-1] Log - Execution started..
+[INFO ] 2021-05-21 09:54:06.752 [TestNG-tests-1] Log - Extent Report location initialized . . .
+[INFO ] 2021-05-21 09:54:06.930 [TestNG-tests-1] Log - System Info. set in Extent Report
+[INFO ] 2021-05-21 09:54:10.624 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 09:54:16.413 [TestNG-tests-1] Log - validateText
+[INFO ] 2021-05-21 09:54:16.532 [TestNG-tests-1] Log - Actual Text {Paid Courses}. Expected Text {Paid Courses}
+[INFO ] 2021-05-21 09:54:16.537 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 09:54:16.545 [TestNG-tests-1] Log - Getting the title...
+[INFO ] 2021-05-21 09:54:16.587 [TestNG-tests-1] Log - Expected Title HTML Tutorial
+[INFO ] 2021-05-21 09:54:16.599 [TestNG-tests-1] Log - Actual Title HTML Tutorial
+[INFO ] 2021-05-21 09:54:16.902 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 09:54:16.973 [TestNG-tests-1] Log - Execution completed..
+[INFO ] 2021-05-21 09:54:17.454 [TestNG-tests-1] Log - generate report
+[INFO ] 2021-05-21 10:11:27.673 [TestNG-tests-1] Log - Execution started..
+[INFO ] 2021-05-21 10:11:27.702 [TestNG-tests-1] Log - Extent Report location initialized . . .
+[INFO ] 2021-05-21 10:11:27.945 [TestNG-tests-1] Log - System Info. set in Extent Report
+[INFO ] 2021-05-21 10:11:48.576 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 10:11:50.233 [TestNG-tests-1] Log - validateText
+[INFO ] 2021-05-21 10:11:50.402 [TestNG-tests-1] Log - Actual Text {Paid Courses}. Expected Text {Paid Courses}
+[INFO ] 2021-05-21 10:11:50.405 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 10:11:50.408 [TestNG-tests-1] Log - Getting the title...
+[INFO ] 2021-05-21 10:11:50.422 [TestNG-tests-1] Log - Expected Title HTML Tutorial
+[INFO ] 2021-05-21 10:11:50.433 [TestNG-tests-1] Log - Actual Title HTML Tutorial
+[INFO ] 2021-05-21 10:11:54.189 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 10:11:54.229 [TestNG-tests-1] Log - Execution completed..
+[INFO ] 2021-05-21 10:11:54.692 [TestNG-tests-1] Log - generate report
+[INFO ] 2021-05-21 10:35:36.240 [TestNG-tests-1] Log - Execution started..
+[INFO ] 2021-05-21 10:35:36.272 [TestNG-tests-1] Log - Extent Report location initialized . . .
+[INFO ] 2021-05-21 10:35:36.461 [TestNG-tests-1] Log - System Info. set in Extent Report
+[INFO ] 2021-05-21 10:35:47.115 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 10:36:06.167 [TestNG-tests-1] Log - validateText
+[INFO ] 2021-05-21 10:36:06.308 [TestNG-tests-1] Log - Actual Text {Paid Courses}. Expected Text {Paid Course}
+[ERROR] 2021-05-21 10:36:06.308 [TestNG-tests-1] Log - Text not Matching. Got text as Paid Courses
+[INFO ] 2021-05-21 10:36:06.312 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 10:36:06.323 [TestNG-tests-1] Log - Getting the title...
+[INFO ] 2021-05-21 10:36:06.336 [TestNG-tests-1] Log - Expected Title HTML Tutorial
+[INFO ] 2021-05-21 10:36:06.353 [TestNG-tests-1] Log - Actual Title HTML Tutorial
+[INFO ] 2021-05-21 10:36:07.799 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 10:36:07.840 [TestNG-tests-1] Log - Execution completed..
+[INFO ] 2021-05-21 10:36:08.224 [TestNG-tests-1] Log - generate report
+[INFO ] 2021-05-21 10:38:06.151 [TestNG-tests-1] Log - Execution started..
+[INFO ] 2021-05-21 10:38:06.174 [TestNG-tests-1] Log - Extent Report location initialized . . .
+[INFO ] 2021-05-21 10:38:06.340 [TestNG-tests-1] Log - System Info. set in Extent Report
+[INFO ] 2021-05-21 10:38:13.085 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 10:38:25.335 [TestNG-tests-1] Log - validateText
+[INFO ] 2021-05-21 10:38:25.506 [TestNG-tests-1] Log - Actual Text {Paid Courses}. Expected Text {Paid Courses}
+[INFO ] 2021-05-21 10:38:25.514 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 10:38:25.524 [TestNG-tests-1] Log - Getting the title...
+[INFO ] 2021-05-21 10:38:25.555 [TestNG-tests-1] Log - Expected Title HTML Tutoria
+[INFO ] 2021-05-21 10:38:25.586 [TestNG-tests-1] Log - Actual Title HTML Tutorial
+[ERROR] 2021-05-21 10:38:25.622 [TestNG-tests-1] Log - Titles do not match. Got title as HTML Tutorial
+[INFO ] 2021-05-21 10:38:26.911 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 10:38:26.952 [TestNG-tests-1] Log - Execution completed..
+[INFO ] 2021-05-21 10:38:27.344 [TestNG-tests-1] Log - generate report
+[INFO ] 2021-05-21 10:41:10.272 [TestNG-tests-1] Log - Execution started..
+[INFO ] 2021-05-21 10:41:10.302 [TestNG-tests-1] Log - Extent Report location initialized . . .
+[INFO ] 2021-05-21 10:41:10.543 [TestNG-tests-1] Log - System Info. set in Extent Report
+[INFO ] 2021-05-21 10:41:19.847 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 10:41:30.108 [TestNG-tests-1] Log - validateText
+[INFO ] 2021-05-21 10:41:30.303 [TestNG-tests-1] Log - Actual Text {Paid Courses}. Expected Text {Paid Courses}
+[INFO ] 2021-05-21 10:41:30.309 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 10:41:30.320 [TestNG-tests-1] Log - Getting the title...
+[INFO ] 2021-05-21 10:41:30.337 [TestNG-tests-1] Log - Expected Title HTML Tutoria
+[INFO ] 2021-05-21 10:41:30.357 [TestNG-tests-1] Log - Actual Title HTML Tutorial
+[ERROR] 2021-05-21 10:41:30.395 [TestNG-tests-1] Log - Titles do not match. Got title as HTML Tutorial
+[INFO ] 2021-05-21 10:41:32.323 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 10:41:32.372 [TestNG-tests-1] Log - Execution completed..
+[INFO ] 2021-05-21 10:41:33.068 [TestNG-tests-1] Log - generate report
+[INFO ] 2021-05-21 11:03:08.244 [TestNG-tests-1] Log - Execution started..
+[INFO ] 2021-05-21 11:03:08.271 [TestNG-tests-1] Log - Extent Report location initialized . . .
+[INFO ] 2021-05-21 11:03:08.529 [TestNG-tests-1] Log - System Info. set in Extent Report
+[INFO ] 2021-05-21 11:03:16.644 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 11:03:25.253 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 11:03:25.259 [TestNG-tests-1] Log - Getting the title...
+[INFO ] 2021-05-21 11:03:25.297 [TestNG-tests-1] Log - FAILED
+[INFO ] 2021-05-21 11:03:25.390 [TestNG-tests-1] Log - Execution completed..
+[INFO ] 2021-05-21 11:03:26.056 [TestNG-tests-1] Log - generate report
+[INFO ] 2021-05-21 11:05:05.086 [main] Log - Extent Report location initialized . . .
+[INFO ] 2021-05-21 11:05:05.284 [main] Log - System Info. set in Extent Report
+[INFO ] 2021-05-21 11:05:26.124 [main] Log - Getting the title...
+[INFO ] 2021-05-21 11:07:09.465 [main] Log - Extent Report location initialized . . .
+[INFO ] 2021-05-21 11:07:09.800 [main] Log - System Info. set in Extent Report
+[INFO ] 2021-05-21 11:07:33.996 [main] Log - Getting the title...
+[INFO ] 2021-05-21 11:23:04.208 [TestNG-tests-1] Log - Execution started..
+[INFO ] 2021-05-21 11:23:04.241 [TestNG-tests-1] Log - Extent Report location initialized . . .
+[INFO ] 2021-05-21 11:23:04.461 [TestNG-tests-1] Log - System Info. set in Extent Report
+[INFO ] 2021-05-21 11:23:21.908 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 11:23:38.708 [TestNG-tests-1] Log - validateText
+[INFO ] 2021-05-21 11:23:38.940 [TestNG-tests-1] Log - Actual Text {Paid Courses}. Expected Text {Paid Courses}
+[INFO ] 2021-05-21 11:23:38.953 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 11:23:38.964 [TestNG-tests-1] Log - Getting the title...
+[INFO ] 2021-05-21 11:23:38.992 [TestNG-tests-1] Log - Expected Title HTML Tutoria
+[INFO ] 2021-05-21 11:23:39.012 [TestNG-tests-1] Log - Actual Title HTML Tutorial
+[INFO ] 2021-05-21 11:23:41.140 [TestNG-tests-1] Log - FAILED
+[INFO ] 2021-05-21 11:23:41.204 [TestNG-tests-1] Log - Execution completed..
+[INFO ] 2021-05-21 11:23:41.799 [TestNG-tests-1] Log - generate report
+[INFO ] 2021-05-21 11:34:20.712 [main] Log - Extent Report location initialized . . .
+[INFO ] 2021-05-21 11:34:20.900 [main] Log - System Info. set in Extent Report
+[INFO ] 2021-05-21 11:34:38.246 [main] Log - validateText
+[INFO ] 2021-05-21 11:34:38.354 [main] Log - Actual Text {Paid Courses}. Expected Text {Paid Courses}
+[INFO ] 2021-05-21 11:34:38.368 [main] Log - Getting the title...
+[INFO ] 2021-05-21 11:34:38.425 [main] Log - Expected Title HTML Tutoria
+[INFO ] 2021-05-21 11:34:38.446 [main] Log - Actual Title HTML Tutorial
+[INFO ] 2021-05-21 11:35:46.788 [TestNG-tests-1] Log - Execution started..
+[INFO ] 2021-05-21 11:35:46.817 [TestNG-tests-1] Log - Extent Report location initialized . . .
+[INFO ] 2021-05-21 11:35:47.016 [TestNG-tests-1] Log - System Info. set in Extent Report
+[INFO ] 2021-05-21 11:35:56.146 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 11:36:03.985 [TestNG-tests-1] Log - validateText
+[INFO ] 2021-05-21 11:36:04.231 [TestNG-tests-1] Log - Actual Text {Paid Courses}. Expected Text {Paid Courses}
+[INFO ] 2021-05-21 11:36:04.240 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 11:36:04.251 [TestNG-tests-1] Log - Getting the title...
+[INFO ] 2021-05-21 11:36:04.283 [TestNG-tests-1] Log - Expected Title HTML Tutoria
+[INFO ] 2021-05-21 11:36:04.294 [TestNG-tests-1] Log - Actual Title HTML Tutorial
+[INFO ] 2021-05-21 11:36:06.309 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 11:36:06.413 [TestNG-tests-1] Log - Execution completed..
+[INFO ] 2021-05-21 11:36:07.091 [TestNG-tests-1] Log - generate report
+[INFO ] 2021-05-21 12:11:45.564 [TestNG-tests-1] Log - Execution started..
+[INFO ] 2021-05-21 12:11:45.585 [TestNG-tests-1] Log - Extent Report location initialized . . .
+[INFO ] 2021-05-21 12:11:45.790 [TestNG-tests-1] Log - System Info. set in Extent Report
+[INFO ] 2021-05-21 12:11:53.157 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 12:12:01.523 [TestNG-tests-1] Log - validateText
+[INFO ] 2021-05-21 12:12:01.721 [TestNG-tests-1] Log - Actual Text {Paid Courses}. Expected Text {Paid Courses}
+[INFO ] 2021-05-21 12:12:07.789 [TestNG-tests-1] Log - validateText
+[INFO ] 2021-05-21 12:12:07.880 [TestNG-tests-1] Log - Actual Text {Paid Courses}. Expected Text {Paid Course}
+[INFO ] 2021-05-21 12:12:07.897 [TestNG-tests-1] Log - FAILED
+[INFO ] 2021-05-21 12:12:07.912 [TestNG-tests-1] Log - Getting the title...
+[INFO ] 2021-05-21 12:12:07.939 [TestNG-tests-1] Log - Expected Title HTML Tutoria
+[INFO ] 2021-05-21 12:12:07.962 [TestNG-tests-1] Log - Actual Title HTML Tutorial
+[INFO ] 2021-05-21 12:12:07.976 [TestNG-tests-1] Log - FAILED
+[INFO ] 2021-05-21 12:12:08.038 [TestNG-tests-1] Log - Execution completed..
+[INFO ] 2021-05-21 12:12:08.562 [TestNG-tests-1] Log - generate report
+[INFO ] 2021-05-21 12:18:45.256 [TestNG-tests-1] Log - Execution started..
+[INFO ] 2021-05-21 12:18:45.298 [TestNG-tests-1] Log - Extent Report location initialized . . .
+[INFO ] 2021-05-21 12:18:45.621 [TestNG-tests-1] Log - System Info. set in Extent Report
+[INFO ] 2021-05-21 12:18:55.969 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 12:19:13.155 [TestNG-tests-1] Log - validateText
+[INFO ] 2021-05-21 12:19:13.382 [TestNG-tests-1] Log - Actual Text {Paid Courses}. Expected Text {Paid Course}
+[INFO ] 2021-05-21 12:19:15.723 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 12:19:15.734 [TestNG-tests-1] Log - Getting the title...
+[INFO ] 2021-05-21 12:19:15.788 [TestNG-tests-1] Log - FAILED
+[INFO ] 2021-05-21 12:19:15.900 [TestNG-tests-1] Log - Execution completed..
+[INFO ] 2021-05-21 12:19:16.935 [TestNG-tests-1] Log - generate report
+[INFO ] 2021-05-21 12:21:52.980 [TestNG-tests-1] Log - Execution started..
+[INFO ] 2021-05-21 12:21:53.002 [TestNG-tests-1] Log - Extent Report location initialized . . .
+[INFO ] 2021-05-21 12:21:53.184 [TestNG-tests-1] Log - System Info. set in Extent Report
+[INFO ] 2021-05-21 12:22:03.000 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 12:22:18.741 [TestNG-tests-1] Log - validateText
+[INFO ] 2021-05-21 12:22:18.912 [TestNG-tests-1] Log - Actual Text {Paid Courses}. Expected Text {Paid Course}
+[INFO ] 2021-05-21 12:22:19.537 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 12:22:19.552 [TestNG-tests-1] Log - Getting the title...
+[INFO ] 2021-05-21 12:22:19.572 [TestNG-tests-1] Log - Expected Title HTML Tutoria
+[INFO ] 2021-05-21 12:22:19.592 [TestNG-tests-1] Log - Actual Title HTML Tutorial
+[INFO ] 2021-05-21 12:22:19.894 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 12:22:19.943 [TestNG-tests-1] Log - Execution completed..
+[INFO ] 2021-05-21 12:22:20.462 [TestNG-tests-1] Log - generate report
+[INFO ] 2021-05-21 12:24:52.166 [TestNG-tests-1] Log - Execution started..
+[INFO ] 2021-05-21 12:24:52.198 [TestNG-tests-1] Log - Extent Report location initialized . . .
+[INFO ] 2021-05-21 12:24:52.430 [TestNG-tests-1] Log - System Info. set in Extent Report
+[INFO ] 2021-05-21 12:25:03.359 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 12:25:18.336 [TestNG-tests-1] Log - validateText
+[INFO ] 2021-05-21 12:25:18.612 [TestNG-tests-1] Log - Actual Text {Paid Courses}. Expected Text {Paid Course}
+[INFO ] 2021-05-21 12:25:18.987 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 12:25:18.994 [TestNG-tests-1] Log - Getting the title...
+[INFO ] 2021-05-21 12:25:19.020 [TestNG-tests-1] Log - Expected Title HTML Tutoria
+[INFO ] 2021-05-21 12:25:19.041 [TestNG-tests-1] Log - Actual Title HTML Tutorial
+[INFO ] 2021-05-21 12:25:19.429 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 12:25:19.486 [TestNG-tests-1] Log - Execution completed..
+[INFO ] 2021-05-21 12:25:20.095 [TestNG-tests-1] Log - generate report
+[INFO ] 2021-05-21 12:26:40.411 [TestNG-tests-1] Log - Execution started..
+[INFO ] 2021-05-21 12:26:40.436 [TestNG-tests-1] Log - Extent Report location initialized . . .
+[INFO ] 2021-05-21 12:26:40.645 [TestNG-tests-1] Log - System Info. set in Extent Report
+[INFO ] 2021-05-21 12:26:49.455 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 12:26:59.911 [TestNG-tests-1] Log - validateText
+[INFO ] 2021-05-21 12:27:00.109 [TestNG-tests-1] Log - Actual Text {Paid Courses}. Expected Text {Paid Course}
+[INFO ] 2021-05-21 12:27:00.524 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 12:27:00.532 [TestNG-tests-1] Log - Getting the title...
+[INFO ] 2021-05-21 12:27:00.547 [TestNG-tests-1] Log - Expected Title HTML Tutorial
+[INFO ] 2021-05-21 12:27:00.561 [TestNG-tests-1] Log - Actual Title HTML Tutorial
+[INFO ] 2021-05-21 12:27:00.583 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 12:27:00.641 [TestNG-tests-1] Log - Execution completed..
+[INFO ] 2021-05-21 12:27:01.329 [TestNG-tests-1] Log - generate report
+[INFO ] 2021-05-21 12:28:12.353 [TestNG-tests-1] Log - Execution started..
+[INFO ] 2021-05-21 12:28:12.377 [TestNG-tests-1] Log - Extent Report location initialized . . .
+[INFO ] 2021-05-21 12:28:12.578 [TestNG-tests-1] Log - System Info. set in Extent Report
+[INFO ] 2021-05-21 12:28:22.644 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 12:28:32.680 [TestNG-tests-1] Log - validateText
+[INFO ] 2021-05-21 12:28:32.799 [TestNG-tests-1] Log - Actual Text {Paid Courses}. Expected Text {Paid Course}
+[INFO ] 2021-05-21 12:28:38.024 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 12:28:38.029 [TestNG-tests-1] Log - Getting the title...
+[INFO ] 2021-05-21 12:28:38.048 [TestNG-tests-1] Log - FAILED
+[INFO ] 2021-05-21 12:28:38.102 [TestNG-tests-1] Log - Execution completed..
+[INFO ] 2021-05-21 12:28:38.797 [TestNG-tests-1] Log - generate report
+[INFO ] 2021-05-21 12:34:03.432 [TestNG-tests-1] Log - Execution started..
+[INFO ] 2021-05-21 12:34:03.456 [TestNG-tests-1] Log - Extent Report location initialized . . .
+[INFO ] 2021-05-21 12:34:03.655 [TestNG-tests-1] Log - System Info. set in Extent Report
+[INFO ] 2021-05-21 12:34:12.225 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 12:34:30.497 [TestNG-tests-1] Log - validateText
+[INFO ] 2021-05-21 12:34:30.717 [TestNG-tests-1] Log - Actual Text {Paid Courses}. Expected Text {Paid Course}
+[INFO ] 2021-05-21 12:34:33.237 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 12:34:33.245 [TestNG-tests-1] Log - Getting the title...
+[INFO ] 2021-05-21 12:34:33.290 [TestNG-tests-1] Log - FAILED
+[INFO ] 2021-05-21 12:34:33.405 [TestNG-tests-1] Log - Execution completed..
+[INFO ] 2021-05-21 12:34:34.166 [TestNG-tests-1] Log - generate report
+[INFO ] 2021-05-21 12:35:21.655 [TestNG-tests-1] Log - Execution started..
+[INFO ] 2021-05-21 12:35:21.689 [TestNG-tests-1] Log - Extent Report location initialized . . .
+[INFO ] 2021-05-21 12:35:22.237 [TestNG-tests-1] Log - System Info. set in Extent Report
+[INFO ] 2021-05-21 12:35:31.144 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 12:35:40.537 [TestNG-tests-1] Log - validateText
+[INFO ] 2021-05-21 12:35:40.657 [TestNG-tests-1] Log - Actual Text {Paid Courses}. Expected Text {Paid Course}
+[INFO ] 2021-05-21 12:35:42.559 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 12:35:42.564 [TestNG-tests-1] Log - Getting the title...
+[INFO ] 2021-05-21 12:35:42.592 [TestNG-tests-1] Log - FAILED
+[INFO ] 2021-05-21 12:35:42.638 [TestNG-tests-1] Log - Execution completed..
+[INFO ] 2021-05-21 12:35:43.318 [TestNG-tests-1] Log - generate report
+[INFO ] 2021-05-21 14:10:15.942 [TestNG-tests-1] Log - Execution started..
+[INFO ] 2021-05-21 14:10:15.956 [TestNG-tests-1] Log - Extent Report location initialized . . .
+[INFO ] 2021-05-21 14:10:16.077 [TestNG-tests-1] Log - System Info. set in Extent Report
+[INFO ] 2021-05-21 14:10:25.075 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 14:10:33.307 [TestNG-tests-1] Log - validateText
+[INFO ] 2021-05-21 14:10:33.356 [TestNG-tests-1] Log - Actual Text {Paid Courses}. Expected Text {Paid Course}
+[INFO ] 2021-05-21 14:10:34.427 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 14:10:34.430 [TestNG-tests-1] Log - Getting the title...
+[INFO ] 2021-05-21 14:10:34.439 [TestNG-tests-1] Log - FAILED
+[INFO ] 2021-05-21 14:10:34.461 [TestNG-tests-1] Log - Execution completed..
+[INFO ] 2021-05-21 14:10:34.715 [TestNG-tests-1] Log - generate report
+[INFO ] 2021-05-21 14:12:44.876 [TestNG-tests-1] Log - Execution started..
+[INFO ] 2021-05-21 14:12:44.890 [TestNG-tests-1] Log - Extent Report location initialized . . .
+[INFO ] 2021-05-21 14:12:45.011 [TestNG-tests-1] Log - System Info. set in Extent Report
+[INFO ] 2021-05-21 14:12:49.391 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 14:13:00.629 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 14:13:00.632 [TestNG-tests-1] Log - Getting the title...
+[INFO ] 2021-05-21 14:13:00.650 [TestNG-tests-1] Log - Expected Title HTML Tutorial
+[INFO ] 2021-05-21 14:13:00.656 [TestNG-tests-1] Log - Actual Title HTML Tutorial
+[INFO ] 2021-05-21 14:13:00.682 [TestNG-tests-1] Log - validateText
+[INFO ] 2021-05-21 14:13:00.721 [TestNG-tests-1] Log - Actual Text {Paid Courses}. Expected Text {Paid Course}
+[INFO ] 2021-05-21 14:13:01.573 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 14:13:01.594 [TestNG-tests-1] Log - Execution completed..
+[INFO ] 2021-05-21 14:13:01.850 [TestNG-tests-1] Log - generate report
+[INFO ] 2021-05-21 14:17:10.351 [TestNG-tests-1] Log - Execution started..
+[INFO ] 2021-05-21 14:17:10.367 [TestNG-tests-1] Log - Extent Report location initialized . . .
+[INFO ] 2021-05-21 14:17:10.487 [TestNG-tests-1] Log - System Info. set in Extent Report
+[INFO ] 2021-05-21 14:17:14.427 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 14:17:24.024 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 14:17:24.028 [TestNG-tests-1] Log - Getting the title...
+[INFO ] 2021-05-21 14:17:24.039 [TestNG-tests-1] Log - Expected Title HTML Tutorial
+[INFO ] 2021-05-21 14:17:24.051 [TestNG-tests-1] Log - Actual Title HTML Tutorial
+[INFO ] 2021-05-21 14:17:24.064 [TestNG-tests-1] Log - validateText
+[INFO ] 2021-05-21 14:17:24.102 [TestNG-tests-1] Log - Actual Text {Paid Courses}. Expected Text {Paid Course}
+[INFO ] 2021-05-21 14:17:25.081 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 14:17:25.101 [TestNG-tests-1] Log - Execution completed..
+[INFO ] 2021-05-21 14:17:25.356 [TestNG-tests-1] Log - generate report
+[INFO ] 2021-05-21 14:33:25.545 [main] Log - Extent Report location initialized . . .
+[INFO ] 2021-05-21 14:33:25.635 [main] Log - System Info. set in Extent Report
+[INFO ] 2021-05-21 14:38:08.146 [TestNG-tests-1] Log - Execution started..
+[INFO ] 2021-05-21 14:38:08.165 [TestNG-tests-1] Log - Extent Report location initialized . . .
+[INFO ] 2021-05-21 14:38:08.286 [TestNG-tests-1] Log - System Info. set in Extent Report
+[INFO ] 2021-05-21 14:38:12.298 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 14:38:14.949 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 14:38:14.952 [TestNG-tests-1] Log - Getting the title...
+[INFO ] 2021-05-21 14:38:14.964 [TestNG-tests-1] Log - Expected Title HTML Tutorial
+[INFO ] 2021-05-21 14:38:14.969 [TestNG-tests-1] Log - Actual Title HTML Tutorial
+[INFO ] 2021-05-21 14:38:14.987 [TestNG-tests-1] Log - validateText
+[INFO ] 2021-05-21 14:38:15.031 [TestNG-tests-1] Log - Actual Text {Paid Courses}. Expected Text {Paid Course}
+[INFO ] 2021-05-21 14:38:15.939 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 14:38:15.959 [TestNG-tests-1] Log - Execution completed..
+[INFO ] 2021-05-21 14:38:16.215 [TestNG-tests-1] Log - generate report
+[INFO ] 2021-05-21 14:39:44.553 [TestNG-tests-1] Log - Execution started..
+[INFO ] 2021-05-21 14:39:44.568 [TestNG-tests-1] Log - Extent Report location initialized . . .
+[INFO ] 2021-05-21 14:39:44.685 [TestNG-tests-1] Log - System Info. set in Extent Report
+[INFO ] 2021-05-21 14:39:49.156 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 14:39:59.386 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 14:39:59.389 [TestNG-tests-1] Log - Getting the title...
+[INFO ] 2021-05-21 14:39:59.399 [TestNG-tests-1] Log - Expected Title HTML Tutorial
+[INFO ] 2021-05-21 14:39:59.411 [TestNG-tests-1] Log - Actual Title HTML Tutorial
+[INFO ] 2021-05-21 14:39:59.431 [TestNG-tests-1] Log - validateText
+[INFO ] 2021-05-21 14:39:59.482 [TestNG-tests-1] Log - Actual Text {Paid Courses}. Expected Text {Paid Courses}
+[INFO ] 2021-05-21 14:39:59.486 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 14:39:59.528 [TestNG-tests-1] Log - Execution completed..
+[INFO ] 2021-05-21 14:39:59.949 [TestNG-tests-1] Log - generate report
+[INFO ] 2021-05-21 14:41:27.509 [TestNG-tests-1] Log - Execution started..
+[INFO ] 2021-05-21 14:41:27.522 [TestNG-tests-1] Log - Extent Report location initialized . . .
+[INFO ] 2021-05-21 14:41:27.627 [TestNG-tests-1] Log - System Info. set in Extent Report
+[INFO ] 2021-05-21 14:41:32.002 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 14:41:35.819 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 14:41:35.821 [TestNG-tests-1] Log - Getting the title...
+[INFO ] 2021-05-21 14:41:35.826 [TestNG-tests-1] Log - Expected Title HTML Tutorial
+[INFO ] 2021-05-21 14:41:35.844 [TestNG-tests-1] Log - Actual Title HTML Tutorial
+[INFO ] 2021-05-21 14:41:35.887 [TestNG-tests-1] Log - validateText
+[INFO ] 2021-05-21 14:41:35.944 [TestNG-tests-1] Log - Actual Text {Paid Courses}. Expected Text {Paid Course}
+[INFO ] 2021-05-21 14:41:36.910 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 14:41:36.951 [TestNG-tests-1] Log - Execution completed..
+[INFO ] 2021-05-21 14:41:37.204 [TestNG-tests-1] Log - generate report
+[INFO ] 2021-05-21 14:46:20.931 [TestNG-tests-1] Log - Execution started..
+[INFO ] 2021-05-21 14:46:20.944 [TestNG-tests-1] Log - Extent Report location initialized . . .
+[INFO ] 2021-05-21 14:46:21.062 [TestNG-tests-1] Log - System Info. set in Extent Report
+[INFO ] 2021-05-21 14:46:25.466 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 14:46:32.781 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 14:46:32.789 [TestNG-tests-1] Log - Getting the title...
+[INFO ] 2021-05-21 14:46:32.800 [TestNG-tests-1] Log - Expected Title HTML Tutorial
+[INFO ] 2021-05-21 14:46:32.810 [TestNG-tests-1] Log - Actual Title HTML Tutorial
+[INFO ] 2021-05-21 14:46:32.828 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 14:46:32.858 [TestNG-tests-1] Log - Execution completed..
+[INFO ] 2021-05-21 14:46:33.205 [TestNG-tests-1] Log - generate report
+[INFO ] 2021-05-21 14:47:05.870 [TestNG-tests-1] Log - Execution started..
+[INFO ] 2021-05-21 14:47:05.887 [TestNG-tests-1] Log - Extent Report location initialized . . .
+[INFO ] 2021-05-21 14:47:06.001 [TestNG-tests-1] Log - System Info. set in Extent Report
+[INFO ] 2021-05-21 14:47:10.412 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 14:47:17.163 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 14:47:17.168 [TestNG-tests-1] Log - Getting the title...
+[INFO ] 2021-05-21 14:47:17.177 [TestNG-tests-1] Log - Expected Title HTML Tutoria
+[INFO ] 2021-05-21 14:47:17.185 [TestNG-tests-1] Log - Actual Title HTML Tutorial
+[INFO ] 2021-05-21 14:47:18.122 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 14:47:18.146 [TestNG-tests-1] Log - Execution completed..
+[INFO ] 2021-05-21 14:47:18.399 [TestNG-tests-1] Log - generate report
+[INFO ] 2021-05-21 14:48:08.520 [TestNG-tests-1] Log - Execution started..
+[INFO ] 2021-05-21 14:48:08.544 [TestNG-tests-1] Log - Extent Report location initialized . . .
+[INFO ] 2021-05-21 14:48:08.683 [TestNG-tests-1] Log - System Info. set in Extent Report
+[INFO ] 2021-05-21 14:48:12.702 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 14:48:19.620 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 14:48:19.622 [TestNG-tests-1] Log - Getting the title...
+[INFO ] 2021-05-21 14:48:19.629 [TestNG-tests-1] Log - Expected Title HTML Tutoria
+[INFO ] 2021-05-21 14:48:19.640 [TestNG-tests-1] Log - Actual Title HTML Tutorial
+[INFO ] 2021-05-21 14:48:20.665 [TestNG-tests-1] Log - FAILED
+[INFO ] 2021-05-21 14:48:20.686 [TestNG-tests-1] Log - Execution completed..
+[INFO ] 2021-05-21 14:48:20.966 [TestNG-tests-1] Log - generate report
+[INFO ] 2021-05-21 15:15:57.753 [TestNG-tests-1] Log - Execution started..
+[INFO ] 2021-05-21 15:15:57.771 [TestNG-tests-1] Log - Extent Report location initialized . . .
+[INFO ] 2021-05-21 15:15:57.900 [TestNG-tests-1] Log - System Info. set in Extent Report
+[INFO ] 2021-05-21 15:16:06.633 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 15:16:14.160 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 15:16:14.164 [TestNG-tests-1] Log - Expected Title HTML Tutoria
+[INFO ] 2021-05-21 15:16:14.184 [TestNG-tests-1] Log - Actual Title HTML Tutorial
+[INFO ] 2021-05-21 15:16:15.141 [TestNG-tests-1] Log - FAILED
+[INFO ] 2021-05-21 15:16:15.171 [TestNG-tests-1] Log - Execution completed..
+[INFO ] 2021-05-21 15:16:15.531 [TestNG-tests-1] Log - generate report
+[INFO ] 2021-05-21 15:19:22.490 [TestNG-tests-1] Log - Execution started..
+[INFO ] 2021-05-21 15:19:22.503 [TestNG-tests-1] Log - Extent Report location initialized . . .
+[INFO ] 2021-05-21 15:19:22.639 [TestNG-tests-1] Log - System Info. set in Extent Report
+[INFO ] 2021-05-21 15:19:27.184 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 15:19:33.909 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 15:19:33.921 [TestNG-tests-1] Log - validateText
+[INFO ] 2021-05-21 15:19:33.973 [TestNG-tests-1] Log - Actual Text {Paid Courses}. Expected Text {Paid Courses}
+[INFO ] 2021-05-21 15:19:33.975 [TestNG-tests-1] Log - Expected Title HTML Tutoria
+[INFO ] 2021-05-21 15:19:33.983 [TestNG-tests-1] Log - Actual Title HTML Tutorial
+[INFO ] 2021-05-21 15:19:35.097 [TestNG-tests-1] Log - FAILED
+[INFO ] 2021-05-21 15:19:35.121 [TestNG-tests-1] Log - Execution completed..
+[INFO ] 2021-05-21 15:19:35.458 [TestNG-tests-1] Log - generate report
+[INFO ] 2021-05-21 15:19:51.091 [TestNG-tests-1] Log - Execution started..
+[INFO ] 2021-05-21 15:19:51.111 [TestNG-tests-1] Log - Extent Report location initialized . . .
+[INFO ] 2021-05-21 15:19:51.251 [TestNG-tests-1] Log - System Info. set in Extent Report
+[INFO ] 2021-05-21 15:19:55.804 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 15:20:03.055 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 15:20:03.069 [TestNG-tests-1] Log - validateText
+[INFO ] 2021-05-21 15:20:03.157 [TestNG-tests-1] Log - Actual Text {Paid Courses}. Expected Text {Paid Course}
+[INFO ] 2021-05-21 15:20:04.305 [TestNG-tests-1] Log - FAILED
+[INFO ] 2021-05-21 15:20:04.339 [TestNG-tests-1] Log - Execution completed..
+[INFO ] 2021-05-21 15:20:04.689 [TestNG-tests-1] Log - generate report
+[INFO ] 2021-05-21 15:44:17.042 [TestNG-tests-1] Log - Execution started..
+[INFO ] 2021-05-21 15:44:17.057 [TestNG-tests-1] Log - Extent Report location initialized . . .
+[INFO ] 2021-05-21 15:44:17.229 [TestNG-tests-1] Log - System Info. set in Extent Report
+[INFO ] 2021-05-21 15:44:22.378 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 15:44:30.831 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 15:44:30.835 [TestNG-tests-1] Log - Expected Title HTML Tutoria
+[INFO ] 2021-05-21 15:44:30.856 [TestNG-tests-1] Log - Actual Title HTML Tutorial
+[INFO ] 2021-05-21 15:44:32.214 [TestNG-tests-1] Log - FAILED
+[INFO ] 2021-05-21 15:44:32.266 [TestNG-tests-1] Log - Execution completed..
+[INFO ] 2021-05-21 15:44:32.649 [TestNG-tests-1] Log - generate report
+[INFO ] 2021-05-21 15:55:46.577 [TestNG-tests-1] Log - Execution started..
+[INFO ] 2021-05-21 15:55:46.604 [TestNG-tests-1] Log - Extent Report location initialized . . .
+[INFO ] 2021-05-21 15:55:46.783 [TestNG-tests-1] Log - System Info. set in Extent Report
+[INFO ] 2021-05-21 15:55:51.265 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 15:56:03.927 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 15:56:03.935 [TestNG-tests-1] Log - Expected Title HTML Tutoria
+[INFO ] 2021-05-21 15:56:03.956 [TestNG-tests-1] Log - Actual Title HTML Tutorial
+[INFO ] 2021-05-21 15:56:04.837 [TestNG-tests-1] Log - FAILED
+[INFO ] 2021-05-21 15:56:04.866 [TestNG-tests-1] Log - Execution completed..
+[INFO ] 2021-05-21 15:56:05.158 [TestNG-tests-1] Log - generate report
+[INFO ] 2021-05-21 16:00:00.394 [TestNG-tests-1] Log - Execution started..
+[INFO ] 2021-05-21 16:00:00.412 [TestNG-tests-1] Log - Extent Report location initialized . . .
+[INFO ] 2021-05-21 16:00:00.552 [TestNG-tests-1] Log - System Info. set in Extent Report
+[INFO ] 2021-05-21 16:00:05.182 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 16:00:27.666 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 16:00:27.669 [TestNG-tests-1] Log - Expected Title HTML Tutoria
+[INFO ] 2021-05-21 16:00:27.679 [TestNG-tests-1] Log - Actual Title HTML Tutorial
+[INFO ] 2021-05-21 16:00:28.629 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 16:00:28.652 [TestNG-tests-1] Log - Execution completed..
+[INFO ] 2021-05-21 16:00:28.947 [TestNG-tests-1] Log - generate report
+[INFO ] 2021-05-21 16:01:35.760 [TestNG-tests-1] Log - Execution started..
+[INFO ] 2021-05-21 16:01:35.784 [TestNG-tests-1] Log - Extent Report location initialized . . .
+[INFO ] 2021-05-21 16:01:35.971 [TestNG-tests-1] Log - System Info. set in Extent Report
+[INFO ] 2021-05-21 16:01:40.669 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 16:01:43.022 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 16:01:43.025 [TestNG-tests-1] Log - Expected Title HTML Tutoria
+[INFO ] 2021-05-21 16:01:43.034 [TestNG-tests-1] Log - Actual Title HTML Tutorial
+[INFO ] 2021-05-21 16:01:44.221 [TestNG-tests-1] Log - FAILED
+[INFO ] 2021-05-21 16:01:44.244 [TestNG-tests-1] Log - Execution completed..
+[INFO ] 2021-05-21 16:01:44.537 [TestNG-tests-1] Log - generate report
+[INFO ] 2021-05-21 16:03:28.886 [TestNG-tests-1] Log - Execution started..
+[INFO ] 2021-05-21 16:03:28.901 [TestNG-tests-1] Log - Extent Report location initialized . . .
+[INFO ] 2021-05-21 16:03:29.052 [TestNG-tests-1] Log - System Info. set in Extent Report
+[INFO ] 2021-05-21 16:03:33.768 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 16:03:36.592 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 16:03:36.596 [TestNG-tests-1] Log - Expected Title HTML Tutoria
+[INFO ] 2021-05-21 16:03:36.642 [TestNG-tests-1] Log - Actual Title HTML Tutorial
+[INFO ] 2021-05-21 16:03:38.021 [TestNG-tests-1] Log - FAILED
+[INFO ] 2021-05-21 16:03:38.048 [TestNG-tests-1] Log - Execution completed..
+[INFO ] 2021-05-21 16:03:38.408 [TestNG-tests-1] Log - generate report
+[INFO ] 2021-05-21 16:19:35.978 [TestNG-tests-1] Log - Execution started..
+[INFO ] 2021-05-21 16:19:35.996 [TestNG-tests-1] Log - Extent Report location initialized . . .
+[INFO ] 2021-05-21 16:19:36.120 [TestNG-tests-1] Log - System Info. set in Extent Report
+[INFO ] 2021-05-21 16:19:38.817 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 16:19:41.289 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 16:19:41.292 [TestNG-tests-1] Log - Expected Title HTML Tutoria
+[INFO ] 2021-05-21 16:19:41.301 [TestNG-tests-1] Log - Actual Title HTML Tutorial
+[INFO ] 2021-05-21 16:19:42.241 [TestNG-tests-1] Log - FAILED
+[INFO ] 2021-05-21 16:19:42.266 [TestNG-tests-1] Log - Execution completed..
+[INFO ] 2021-05-21 16:19:42.554 [TestNG-tests-1] Log - generate report
+[INFO ] 2021-05-21 16:23:03.849 [TestNG-tests-1] Log - Execution started..
+[INFO ] 2021-05-21 16:23:03.867 [TestNG-tests-1] Log - Extent Report location initialized . . .
+[INFO ] 2021-05-21 16:23:03.981 [TestNG-tests-1] Log - System Info. set in Extent Report
+[INFO ] 2021-05-21 16:23:06.284 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 16:23:08.695 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 16:23:08.700 [TestNG-tests-1] Log - validateText
+[INFO ] 2021-05-21 16:23:08.737 [TestNG-tests-1] Log - Actual Text {Paid Courses}. Expected Text {Paid Course}
+[INFO ] 2021-05-21 16:23:09.665 [TestNG-tests-1] Log - FAILED
+[INFO ] 2021-05-21 16:23:09.691 [TestNG-tests-1] Log - Execution completed..
+[INFO ] 2021-05-21 16:23:09.934 [TestNG-tests-1] Log - generate report
+[INFO ] 2021-05-21 16:24:52.301 [TestNG-tests-1] Log - Execution started..
+[INFO ] 2021-05-21 16:24:52.313 [TestNG-tests-1] Log - Extent Report location initialized . . .
+[INFO ] 2021-05-21 16:24:52.448 [TestNG-tests-1] Log - System Info. set in Extent Report
+[INFO ] 2021-05-21 16:24:54.740 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 16:24:57.700 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 16:24:57.707 [TestNG-tests-1] Log - validateText
+[INFO ] 2021-05-21 16:24:57.740 [TestNG-tests-1] Log - Actual Text {Paid Courses}. Expected Text {Paid Course}
+[INFO ] 2021-05-21 16:24:57.996 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 16:24:58.060 [TestNG-tests-1] Log - Execution completed..
+[INFO ] 2021-05-21 16:24:58.396 [TestNG-tests-1] Log - generate report
+[INFO ] 2021-05-21 16:27:28.363 [TestNG-tests-1] Log - Execution started..
+[INFO ] 2021-05-21 16:27:28.381 [TestNG-tests-1] Log - Extent Report location initialized . . .
+[INFO ] 2021-05-21 16:27:28.509 [TestNG-tests-1] Log - System Info. set in Extent Report
+[INFO ] 2021-05-21 16:27:30.825 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 16:27:33.219 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-21 16:27:33.223 [TestNG-tests-1] Log - Expected Title HTML Tutoria
+[INFO ] 2021-05-21 16:27:33.231 [TestNG-tests-1] Log - Actual Title HTML Tutorial
+[INFO ] 2021-05-21 16:27:34.272 [TestNG-tests-1] Log - FAILED
+[INFO ] 2021-05-21 16:27:34.308 [TestNG-tests-1] Log - Execution completed..
+[INFO ] 2021-05-21 16:27:34.569 [TestNG-tests-1] Log - generate report
+[INFO ] 2021-05-24 08:58:13.047 [TestNG-tests-1] Log - Execution started..
+[INFO ] 2021-05-24 08:58:13.067 [TestNG-tests-1] Log - Extent Report location initialized . . .
+[INFO ] 2021-05-24 08:58:13.209 [TestNG-tests-1] Log - System Info. set in Extent Report
+[INFO ] 2021-05-24 08:58:21.777 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-24 08:58:24.420 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-24 08:58:24.431 [TestNG-tests-1] Log - Expected Title HTML Tutoria
+[INFO ] 2021-05-24 08:58:24.451 [TestNG-tests-1] Log - Actual Title HTML Tutorial
+[INFO ] 2021-05-24 08:58:25.631 [TestNG-tests-1] Log - FAILED
+[INFO ] 2021-05-24 08:58:25.672 [TestNG-tests-1] Log - Execution completed..
+[INFO ] 2021-05-24 08:58:25.960 [TestNG-tests-1] Log - generate report
+[INFO ] 2021-05-24 12:33:02.130 [TestNG-tests-1] Log - Execution started..
+[INFO ] 2021-05-24 12:33:02.146 [TestNG-tests-1] Log - Extent Report location initialized . . .
+[INFO ] 2021-05-24 12:33:02.255 [TestNG-tests-1] Log - System Info. set in Extent Report
+[INFO ] 2021-05-24 12:33:11.170 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-24 12:33:17.379 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-24 12:33:17.385 [TestNG-tests-1] Log - Expected Title HTML Tutoria
+[INFO ] 2021-05-24 12:33:17.416 [TestNG-tests-1] Log - Actual Title HTML Tutorial
+[INFO ] 2021-05-24 12:33:18.625 [TestNG-tests-1] Log - FAILED
+[INFO ] 2021-05-24 12:33:18.648 [TestNG-tests-1] Log - Execution completed..
+[INFO ] 2021-05-24 12:33:18.930 [TestNG-tests-1] Log - generate report
+[INFO ] 2021-05-24 13:58:38.893 [TestNG-tests-1] Log - Execution started..
+[INFO ] 2021-05-24 13:58:38.910 [TestNG-tests-1] Log - Extent Report location initialized . . .
+[INFO ] 2021-05-24 13:58:39.022 [TestNG-tests-1] Log - System Info. set in Extent Report
+[INFO ] 2021-05-24 13:58:44.041 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-24 13:58:50.261 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-24 13:58:50.263 [TestNG-tests-1] Log - Expected Title HTML Tutoria
+[INFO ] 2021-05-24 13:58:50.268 [TestNG-tests-1] Log - Actual Title HTML Tutorial
+[INFO ] 2021-05-24 13:58:51.313 [TestNG-tests-1] Log - FAILED
+[INFO ] 2021-05-24 13:58:51.335 [TestNG-tests-1] Log - Execution completed..
+[INFO ] 2021-05-24 13:58:51.640 [TestNG-tests-1] Log - generate report
+[INFO ] 2021-05-24 14:49:50.349 [TestNG-tests-1] Log - Execution started..
+[INFO ] 2021-05-24 14:49:50.385 [TestNG-tests-1] Log - Extent Report location initialized . . .
+[INFO ] 2021-05-24 14:49:50.554 [TestNG-tests-1] Log - System Info. set in Extent Report
+[INFO ] 2021-05-24 14:49:56.285 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-24 14:50:00.568 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-24 14:50:00.571 [TestNG-tests-1] Log - Expected Title HTML Tutoria
+[INFO ] 2021-05-24 14:50:00.594 [TestNG-tests-1] Log - FAILED
+[INFO ] 2021-05-24 14:50:00.748 [TestNG-tests-1] Log - Execution completed..
+[INFO ] 2021-05-24 14:50:01.054 [TestNG-tests-1] Log - generate report
+[INFO ] 2021-05-24 14:51:03.656 [TestNG-tests-1] Log - Execution started..
+[INFO ] 2021-05-24 14:51:03.674 [TestNG-tests-1] Log - Extent Report location initialized . . .
+[INFO ] 2021-05-24 14:51:03.807 [TestNG-tests-1] Log - System Info. set in Extent Report
+[INFO ] 2021-05-24 14:51:08.324 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-24 14:51:12.136 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-24 14:51:12.139 [TestNG-tests-1] Log - Expected Title HTML Tutorial
+[INFO ] 2021-05-24 14:51:12.143 [TestNG-tests-1] Log - FAILED
+[INFO ] 2021-05-24 14:51:12.165 [TestNG-tests-1] Log - Execution completed..
+[INFO ] 2021-05-24 14:51:12.464 [TestNG-tests-1] Log - generate report
+[INFO ] 2021-05-24 14:53:40.622 [TestNG-tests-1] Log - Execution started..
+[INFO ] 2021-05-24 14:53:40.642 [TestNG-tests-1] Log - Extent Report location initialized . . .
+[INFO ] 2021-05-24 14:53:40.802 [TestNG-tests-1] Log - System Info. set in Extent Report
+[INFO ] 2021-05-24 14:53:45.968 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-24 14:54:12.405 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-24 14:54:12.412 [TestNG-tests-1] Log - Expected Title HTML Tutorial
+[INFO ] 2021-05-24 14:54:12.432 [TestNG-tests-1] Log - Actual Title HTML Tutorial
+[INFO ] 2021-05-24 14:54:13.987 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-24 14:54:14.033 [TestNG-tests-1] Log - Execution completed..
+[INFO ] 2021-05-24 14:54:14.486 [TestNG-tests-1] Log - generate report
+[INFO ] 2021-05-24 14:54:48.582 [TestNG-tests-1] Log - Execution started..
+[INFO ] 2021-05-24 14:54:48.596 [TestNG-tests-1] Log - Extent Report location initialized . . .
+[INFO ] 2021-05-24 14:54:48.723 [TestNG-tests-1] Log - System Info. set in Extent Report
+[INFO ] 2021-05-24 14:54:53.797 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-24 14:54:56.645 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-24 14:54:56.653 [TestNG-tests-1] Log - Expected Title HTML Tutorial
+[INFO ] 2021-05-24 14:54:56.660 [TestNG-tests-1] Log - FAILED
+[INFO ] 2021-05-24 14:54:56.693 [TestNG-tests-1] Log - Execution completed..
+[INFO ] 2021-05-24 14:54:57.028 [TestNG-tests-1] Log - generate report
+[INFO ] 2021-05-24 15:15:29.893 [TestNG-tests-1] Log - Execution started..
+[INFO ] 2021-05-24 15:15:29.919 [TestNG-tests-1] Log - Extent Report location initialized . . .
+[INFO ] 2021-05-24 15:15:30.064 [TestNG-tests-1] Log - System Info. set in Extent Report
+[INFO ] 2021-05-24 15:15:35.070 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-24 15:15:41.199 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-24 15:15:41.207 [TestNG-tests-1] Log - Expected Title HTML Tutorial
+[INFO ] 2021-05-24 15:15:41.215 [TestNG-tests-1] Log - FAILED
+[INFO ] 2021-05-24 15:15:41.243 [TestNG-tests-1] Log - Execution completed..
+[INFO ] 2021-05-24 15:15:41.532 [TestNG-tests-1] Log - generate report
+[INFO ] 2021-05-24 15:16:47.267 [TestNG-tests-1] Log - Execution started..
+[INFO ] 2021-05-24 15:16:47.285 [TestNG-tests-1] Log - Extent Report location initialized . . .
+[INFO ] 2021-05-24 15:16:47.469 [TestNG-tests-1] Log - System Info. set in Extent Report
+[INFO ] 2021-05-24 15:16:52.383 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-24 15:16:54.734 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-24 15:16:54.744 [TestNG-tests-1] Log - Expected Title HTML Tutorial
+[INFO ] 2021-05-24 15:16:54.773 [TestNG-tests-1] Log - Actual Title HTML Tutorial
+[INFO ] 2021-05-24 15:16:55.805 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-24 15:16:55.821 [TestNG-tests-1] Log - Execution completed..
+[INFO ] 2021-05-24 15:16:56.120 [TestNG-tests-1] Log - generate report
+[INFO ] 2021-05-24 15:18:53.790 [TestNG-tests-1] Log - Execution started..
+[INFO ] 2021-05-24 15:18:53.807 [TestNG-tests-1] Log - Extent Report location initialized . . .
+[INFO ] 2021-05-24 15:18:53.930 [TestNG-tests-1] Log - System Info. set in Extent Report
+[INFO ] 2021-05-24 15:18:58.363 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-24 15:19:03.836 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-24 15:19:03.838 [TestNG-tests-1] Log - Expected Title HTML Tutorial
+[INFO ] 2021-05-24 15:19:03.843 [TestNG-tests-1] Log - Actual Title HTML Tutorial
+[INFO ] 2021-05-24 15:19:04.689 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-24 15:19:04.708 [TestNG-tests-1] Log - Execution completed..
+[INFO ] 2021-05-24 15:19:05.010 [TestNG-tests-1] Log - generate report
+[INFO ] 2021-05-24 15:19:23.602 [TestNG-tests-1] Log - Execution started..
+[INFO ] 2021-05-24 15:19:23.620 [TestNG-tests-1] Log - Extent Report location initialized . . .
+[INFO ] 2021-05-24 15:19:23.743 [TestNG-tests-1] Log - System Info. set in Extent Report
+[INFO ] 2021-05-24 15:19:27.775 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-24 15:20:33.344 [TestNG-tests-1] Log - Execution started..
+[INFO ] 2021-05-24 15:20:33.358 [TestNG-tests-1] Log - Extent Report location initialized . . .
+[INFO ] 2021-05-24 15:20:33.487 [TestNG-tests-1] Log - System Info. set in Extent Report
+[INFO ] 2021-05-24 15:20:37.858 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-24 15:20:50.403 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-24 15:20:50.406 [TestNG-tests-1] Log - Expected Title HTML Tutorial
+[INFO ] 2021-05-24 15:20:50.422 [TestNG-tests-1] Log - Actual Title HTML Tutorial
+[INFO ] 2021-05-24 15:20:51.351 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-24 15:20:51.375 [TestNG-tests-1] Log - Execution completed..
+[INFO ] 2021-05-24 15:20:51.615 [TestNG-tests-1] Log - generate report
+[INFO ] 2021-05-24 15:21:02.650 [TestNG-tests-1] Log - Execution started..
+[INFO ] 2021-05-24 15:21:02.664 [TestNG-tests-1] Log - Extent Report location initialized . . .
+[INFO ] 2021-05-24 15:21:02.771 [TestNG-tests-1] Log - System Info. set in Extent Report
+[INFO ] 2021-05-24 15:21:07.225 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-24 15:21:11.554 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-24 15:21:11.556 [TestNG-tests-1] Log - Expected Title HTML Tutorial
+[INFO ] 2021-05-24 15:21:11.574 [TestNG-tests-1] Log - Actual Title HTML Tutorial
+[INFO ] 2021-05-24 15:21:12.422 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-24 15:21:12.437 [TestNG-tests-1] Log - Execution completed..
+[INFO ] 2021-05-24 15:21:12.697 [TestNG-tests-1] Log - generate report
+[INFO ] 2021-05-24 15:21:25.874 [TestNG-tests-1] Log - Execution started..
+[INFO ] 2021-05-24 15:21:25.890 [TestNG-tests-1] Log - Extent Report location initialized . . .
+[INFO ] 2021-05-24 15:21:26.016 [TestNG-tests-1] Log - System Info. set in Extent Report
+[INFO ] 2021-05-24 15:21:30.642 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-24 15:21:41.322 [TestNG-tests-1] Log - Gherkin Step Passed
+[INFO ] 2021-05-24 15:21:41.326 [TestNG-tests-1] Log - Expected Title HTML Tutoria
+[INFO ] 2021-05-24 15:21:41.348 [TestNG-tests-1] Log - Actual Title HTML Tutorial
+[INFO ] 2021-05-24 15:21:42.320 [TestNG-tests-1] Log - FAILED
+[INFO ] 2021-05-24 15:21:42.358 [TestNG-tests-1] Log - Execution completed..
+[INFO ] 2021-05-24 15:21:42.621 [TestNG-tests-1] Log - generate report
